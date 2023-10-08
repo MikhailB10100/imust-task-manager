@@ -1,0 +1,47 @@
+# Maven specific
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+
+# Eclipse specific
+.classpath
+.project
+.settings/
+
+# Spring Boot log files
+logs/
+
+# Compiled class file
+*.class
+
+# Logs
+*.log
+
+# macOS specific
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Miscellaneous
+.DS_Store?
+.sass-cache/
+.log/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.idea
